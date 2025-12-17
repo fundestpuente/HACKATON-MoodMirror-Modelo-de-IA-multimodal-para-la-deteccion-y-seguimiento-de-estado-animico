@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+python-multipart
+openai
+uvicorn
+numpy
+pillow
+tensorflow
+torch
+transformers
+requests
