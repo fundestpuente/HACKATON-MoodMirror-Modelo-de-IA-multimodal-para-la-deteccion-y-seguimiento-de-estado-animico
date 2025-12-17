@@ -1,1 +1,0 @@
-# HACKATON-MoodMirror-Modelo-de-IA-multimodal-para-la-deteccion-y-seguimiento-de-estado-animico
